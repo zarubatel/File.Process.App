@@ -1,0 +1,57 @@
+[
+    {
+        "filename": "DZ.txt",
+        "uploaded_at": "2024-11-06 10:59:39.276706",
+        "result": "Количество строк в файле: 7\r\n"
+    },
+    {
+        "filename": "Ураков В. И.перевод.pdf",
+        "uploaded_at": "2024-11-06 11:00:31.101524",
+        "result": "Количество строк в файле: 17\r\n"
+    },
+    {
+        "filename": "i.png",
+        "uploaded_at": "2024-11-06 11:00:45.084463",
+        "result": "Количество строк в файле: 1\r\n"
+    },
+    {
+        "filename": "Homework3.docx",
+        "uploaded_at": "2024-11-06 11:29:12.126972",
+        "result": "Количество строк в файле: 1\r\n"
+    },
+    {
+        "filename": "Novyiy tekstovyiy dokument (2) (4).txt",
+        "uploaded_at": "2024-11-06 11:29:23.427107",
+        "result": "Количество строк в файле: 55\r\n"
+    },
+    {
+        "filename": "Novyiy tekstovyiy dokument (2).txt",
+        "uploaded_at": "2024-11-06 13:23:45.574549",
+        "result": "Количество строк в файле: 37\r\n"
+    },
+    {
+        "filename": "Novyiy tekstovyiy dokument (2).txt",
+        "uploaded_at": "2024-11-06 13:40:03.818929",
+        "result": "Количество строк в файле: 37\r\n"
+    },
+    {
+        "filename": "sum_martix.py",
+        "uploaded_at": "2024-11-06 13:40:10.132455",
+        "result": "Количество строк в файле: 183\r\n"
+    },
+    {
+        "filename": "DZ.txt",
+        "uploaded_at": "2024-11-06 13:41:40.206176",
+        "result": "Количество строк в файле: 7\r\n"
+    },
+    {
+        "filename": "sum_martix.py",
+        "uploaded_at": "2024-11-06 14:11:21.935456",
+        "result": "Количество строк: 183\r\nКоличество слов: 1204\r\nКоличество символов: 6993\r\n"
+    },
+    {
+        "filename": "dz3.pdf",
+        "uploaded_at": "2024-11-06 14:30:25.254575",
+        "result": "Количество строк: 1\r\nКоличество слов: 1\r\nКоличество символов: 4\r\n"
+    }
+]
